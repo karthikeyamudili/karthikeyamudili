@@ -3,6 +3,7 @@
      Repo: karthikeyamudili/karthikeyamudili (public, special repo)
      All SVGs in ./assets/ are self-contained: system fonts, no external
      images, no scripts. Motion is CSS/SMIL only and static-safe.
+     Project links are colored button badges; layout stacks on mobile.
      Privacy: no phone number anywhere. Only the public email below.
 ════════════════════════════════════════════════════════════════════ -->
 
@@ -25,11 +26,34 @@
 
 ### ↗ Jump straight into the work
 
-| # | Project | Evidence & links |
-|:-:|:--------|:-----------------|
-| 01 | **The Strategic Evolution of Keppel Ltd. (1968–2026)** — longitudinal corporate-strategy research | [SSRN paper (DOI)](https://doi.org/10.2139/ssrn.6196159) · [SSRN author page](https://ssrn.com/author=10281216) · [ORCID iD](https://orcid.org/0009-0008-2440-8170) |
-| 02 | **Interactive Portfolio & Grounded AI Recruiter** — SVG-crafted site with a deterministic, hallucination-free chatbot | [Live portfolio](https://karthikeyamudili.github.io) · [Source code](https://github.com/karthikeyamudili/karthikeyamudili.github.io) |
-| 03 | **CS50P Python & Mathematical Modeling** — ongoing quantitative lab; first published artifact: DBS Loan Amortization Engine | [Zenodo DOI record](https://zenodo.org/records/18526916) · [GitHub profile](https://github.com/karthikeyamudili) |
+**01 · The Strategic Evolution of Keppel Ltd. (1968–2026)**  
+<sub>Longitudinal corporate-strategy research — Keppel's shift from state shipyard to global asset manager.</sub>
+
+<p>
+  <a href="https://doi.org/10.2139/ssrn.6196159"><img alt="Read the SSRN paper (DOI)" src="https://img.shields.io/badge/READ-SSRN_PAPER-451126?style=for-the-badge&labelColor=10070C"/></a>
+  <a href="https://ssrn.com/author=10281216"><img alt="SSRN author page" src="https://img.shields.io/badge/VIEW-AUTHOR_PAGE-701A3D?style=for-the-badge&labelColor=10070C"/></a>
+  <a href="https://orcid.org/0009-0008-2440-8170"><img alt="ORCID researcher iD" src="https://img.shields.io/badge/VERIFY-ORCID_iD-A6CE39?style=for-the-badge&labelColor=10070C"/></a>
+</p>
+
+---
+
+**02 · Interactive Portfolio & Grounded AI Recruiter**  
+<sub>SVG-crafted site with a deterministic, hallucination-free recruiter chatbot.</sub>
+
+<p>
+  <a href="https://karthikeyamudili.github.io"><img alt="Open the live portfolio" src="https://img.shields.io/badge/OPEN-LIVE_PORTFOLIO-FF4D8D?style=for-the-badge&labelColor=10070C"/></a>
+  <a href="https://github.com/karthikeyamudili/karthikeyamudili.github.io"><img alt="View source code" src="https://img.shields.io/badge/VIEW-SOURCE_CODE-240A16?style=for-the-badge&labelColor=10070C"/></a>
+</p>
+
+---
+
+**03 · CS50P Python & Mathematical Modeling**  
+<sub>Ongoing quantitative lab — first published artifact: DBS Loan Amortization Engine.</sub>
+
+<p>
+  <a href="https://zenodo.org/records/18526916"><img alt="Zenodo DOI record" src="https://img.shields.io/badge/DOI-ZENODO_RECORD-FFB347?style=for-the-badge&labelColor=10070C"/></a>
+  <a href="https://github.com/karthikeyamudili"><img alt="GitHub profile" src="https://img.shields.io/badge/OPEN-GITHUB_PROFILE-C77B9B?style=for-the-badge&labelColor=10070C"/></a>
+</p>
 
 <img src="./assets/toolkit-and-credentials.svg" width="100%" alt="Toolkit: AI command engineering and web design, mathematics, finance and strategy, Python and tools. Six verified credentials: ICAI CA Foundation, SSRN and Zenodo author, Harvard CS50P, MathWorks MATLAB Onramp, HP LIFE and Outskill, Wharton Online Corporate Finance."/>
 
