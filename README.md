@@ -51,7 +51,7 @@
   **VDNSS Karthikeya Mudili** — Visakhapatnam & Rajahmundry, Andhra Pradesh, India.
 
   - 🎓 1st-year **B.Sc. (Honors) Mathematics**, upcoming Computer Science minor — Dr. Lankapalli Bullayya Degree College, Visakhapatnam
-  - 🧮 Intermediate (MPC): **98/100 in Mathematics** · Class 10 (ICSE): **88.6%**, St. Ann's School, Rajahmundry
+  - 🧮 Intermediate (MEC): **95.8%** · Class 10 (ICSE): **88.6%**, St. Ann's School, Rajahmundry
   - 📊 **ICAI CA Foundation — cleared in 1st attempt (2023)**
   - 📝 Research: *The Strategic Evolution of Keppel Ltd. (1968–2026)* — [SSRN](https://ssrn.com/author=10281216) (31+ downloads, snapshot count) · Python FinTech model on [Zenodo](https://zenodo.org/records/18526916) · [ORCID](https://orcid.org/0009-0008-2440-8170)
   - 🛠️ Building: AI command engineering, interactive HTML/CSS/JS, Python via **Harvard CS50P** (active), MATLAB Onramp
