@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 420" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="hTitle hDesc">
+  <title id="hTitle">Karthikeya Mudili — B.Sc. Mathematics · AI Command Engineering · Corporate Strategy</title>
+  <desc id="hDesc">Burgundy editorial hero: first-year B.Sc. Mathematics undergraduate in Visakhapatnam, AI and web builder, published SSRN author, with an about summary card.</desc>
+  <defs>
+    <linearGradient id="h-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="h-card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#451126"/><stop offset="1" stop-color="#240A16"/>
+    </linearGradient>
+    <linearGradient id="h-stroke" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C77B9B"/><stop offset=".55" stop-color="#FF4D8D"/><stop offset="1" stop-color="#FFB347"/>
+    </linearGradient>
+    <radialGradient id="h-light" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity=".14"/><stop offset=".6" stop-color="#701A3D" stop-opacity=".07"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="h-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#C77B9B" stroke-opacity=".06" stroke-width="1"/>
+    </pattern>
+    <filter id="h-glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="h-clip"><rect width="1000" height="420" rx="20"/></clipPath>
+  </defs>
+  <style><![CDATA[
+    .h-serif{font-family:'Playfair Display',Georgia,'Times New Roman',serif}
+    .h-sans{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+    .h-mono{font-family:'JetBrains Mono','Fira Code','Courier New',monospace}
+    .h-drift{animation:h-drift 18s ease-in-out infinite alternate}
+    .h-node{animation:h-pulse 3.2s ease-in-out infinite}
+    .h-draw{animation:h-draw 2.6s ease-out .4s both}
+    @keyframes h-drift{from{transform:translateX(-140px)}to{transform:translateX(140px)}}
+    @keyframes h-pulse{0%,100%{opacity:.4}50%{opacity:1}}
+    @keyframes h-draw{from{stroke-dashoffset:540}to{stroke-dashoffset:0}}
+    @media (prefers-reduced-motion:reduce){.h-drift,.h-node,.h-draw{animation:none}}
+  ]]></style>
+  <g clip-path="url(#h-clip)">
+    <rect width="1000" height="420" fill="url(#h-bg)"/>
+    <rect width="1000" height="420" fill="url(#h-grid)"/>
+    <ellipse class="h-drift" cx="320" cy="90" rx="460" ry="210" fill="url(#h-light)"/>
+    <ellipse cx="830" cy="120" rx="260" ry="180" fill="url(#h-light)"/>
+
+    <!-- top pill -->
+    <rect x="40" y="30" width="545" height="26" rx="13" fill="#190B12" stroke="#701A3D"/>
+    <circle class="h-node" cx="56" cy="43" r="3" fill="#FF4D8D"/>
+    <text class="h-mono" x="68" y="47" font-size="11" letter-spacing="1.2" fill="#E5B5C7">B.SC. MATHEMATICS · AI COMMAND ENGINEERING · CORPORATE STRATEGY</text>
+
+    <!-- editorial title + glowing underline -->
+    <text class="h-serif" x="40" y="120" font-size="58" fill="#F8F0F3">Karthikeya <tspan font-style="italic" fill="#E5B5C7">Mudili</tspan><tspan fill="#FF4D8D">.</tspan></text>
+    <path id="h-underline" class="h-draw" d="M42 140 C200 128 400 150 566 136" fill="none" stroke="url(#h-stroke)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="540" stroke-dashoffset="0" filter="url(#h-glow)"/>
+    <circle r="3" fill="#FFB347" filter="url(#h-glow)">
+      <animateMotion dur="7s" repeatCount="indefinite" path="M42 140 C200 128 400 150 566 136"/>
+    </circle>
+    <text class="h-mono" x="40" y="168" font-size="12" letter-spacing="1" fill="#C77B9B">1ST-YEAR B.SC. MATHEMATICS UNDERGRADUATE · AI &amp; WEB BUILDER</text>
+    <text class="h-mono" x="40" y="186" font-size="12" letter-spacing="1" fill="#C77B9B">PUBLISHED SSRN AUTHOR</text>
+    <text class="h-mono" x="40" y="210" font-size="10.5" letter-spacing="1.5" fill="#C77B9B" opacity=".7">VISAKHAPATNAM · RAJAHMUNDY · ANDHRA PRADESH, INDIA</text>
+
+    <!-- orbital logic crest -->
+    <g>
+      <circle cx="830" cy="118" r="70" fill="none" stroke="#C77B9B" stroke-opacity=".3" stroke-width="1" stroke-dasharray="3 8">
+        <animateTransform attributeName="transform" type="rotate" from="0 830 118" to="360 830 118" dur="40s" repeatCount="indefinite"/>
+      </circle>
+      <g transform="rotate(-18 830 118)">
+        <ellipse cx="830" cy="118" rx="96" ry="30" fill="none" stroke="#701A3D" stroke-width="1.2"/>
+        <circle r="3.5" fill="#FFB347" filter="url(#h-glow)">
+          <animateMotion dur="9s" repeatCount="indefinite" path="M926 118 A96 30 0 1 1 734 118 A96 30 0 1 1 926 118"/>
+        </circle>
+      </g>
+      <polygon points="830,66 875,92 830,118 785,92" fill="#701A3D" fill-opacity=".55"/>
+      <polygon points="785,92 830,118 830,170 785,144" fill="#451126" fill-opacity=".85"/>
+      <polygon points="875,92 875,144 830,170 830,118" fill="#240A16" fill-opacity=".9"/>
+      <polygon points="830,66 875,92 875,144 830,170 785,144 785,92" fill="none" stroke="#C77B9B" stroke-width="1.5"/>
+      <path d="M830 118L785 92M830 118L875 92M830 118L830 170" stroke="#C77B9B" stroke-opacity=".8" stroke-width="1"/>
+      <circle class="h-node" cx="830" cy="66" r="3" fill="#FF4D8D" filter="url(#h-glow)"/>
+      <circle class="h-node" cx="875" cy="92" r="3" fill="#FFB347" style="animation-delay:.5s" filter="url(#h-glow)"/>
+      <circle class="h-node" cx="875" cy="144" r="3" fill="#FF4D8D" style="animation-delay:1s" filter="url(#h-glow)"/>
+      <circle class="h-node" cx="830" cy="170" r="3" fill="#FFB347" style="animation-delay:1.5s" filter="url(#h-glow)"/>
+      <circle class="h-node" cx="785" cy="144" r="3" fill="#FF4D8D" style="animation-delay:2s" filter="url(#h-glow)"/>
+      <circle class="h-node" cx="785" cy="92" r="3" fill="#FFB347" style="animation-delay:2.5s" filter="url(#h-glow)"/>
+      <circle cx="830" cy="118" r="4" fill="#FFB347" filter="url(#h-glow)"/>
+      <text class="h-mono" x="830" y="212" font-size="10" letter-spacing="2" fill="#C77B9B" opacity=".8" text-anchor="middle">MATH · LOGIC · AI</text>
+    </g>
+
+    <!-- 01 · ABOUT -->
+    <line x1="40" y1="230" x2="960" y2="230" stroke="#701A3D" stroke-opacity=".5"/>
+    <rect x="40" y="252" width="18" height="2" fill="#FFB347"/>
+    <text class="h-mono" x="66" y="258" font-size="11" letter-spacing="2" fill="#C77B9B">01 · ABOUT</text>
+    <text class="h-serif" x="40" y="292" font-size="27" fill="#F8F0F3">Hello, I'm <tspan font-style="italic" fill="#E5B5C7">Karthikeya.</tspan></text>
+    <text class="h-sans" x="40" y="320" font-size="14" fill="#E5B5C7" fill-opacity=".92">First-year B.Sc. (Honors) Mathematics student — with an upcoming</text>
+    <text class="h-sans" x="40" y="340" font-size="14" fill="#E5B5C7" fill-opacity=".92">Computer Science minor — in Visakhapatnam, pairing rigorous math</text>
+    <text class="h-sans" x="40" y="360" font-size="14" fill="#E5B5C7" fill-opacity=".92">with AI command engineering, interactive web design, and Python</text>
+    <text class="h-sans" x="40" y="380" font-size="14" fill="#E5B5C7" fill-opacity=".92">through Harvard CS50P. I publish corporate-strategy research on</text>
+    <text class="h-sans" x="40" y="400" font-size="14" fill="#E5B5C7" fill-opacity=".92">SSRN &amp; Zenodo, and build grounded AI workflows that stay explainable.</text>
+
+    <!-- summary card -->
+    <rect x="600" y="244" width="360" height="162" rx="14" fill="url(#h-card)" stroke="#701A3D"/>
+    <text class="h-mono" x="618" y="270" font-size="9.5" letter-spacing="1.5" fill="#C77B9B">EDUCATION</text>
+    <text class="h-sans" x="618" y="287" font-size="12.5" fill="#F8F0F3">B.Sc. Mathematics — Dr. L. Bullayya College</text>
+    <line x1="616" y1="297" x2="944" y2="297" stroke="#701A3D" stroke-opacity=".45"/>
+    <text class="h-mono" x="618" y="307" font-size="9.5" letter-spacing="1.5" fill="#C77B9B">RESEARCH</text>
+    <text class="h-sans" x="618" y="324" font-size="12.5" fill="#F8F0F3">Published on SSRN (31+ downloads) &amp; Zenodo</text>
+    <line x1="616" y1="334" x2="944" y2="334" stroke="#701A3D" stroke-opacity=".45"/>
+    <text class="h-mono" x="618" y="344" font-size="9.5" letter-spacing="1.5" fill="#C77B9B">AI &amp; DEV</text>
+    <text class="h-sans" x="618" y="361" font-size="12.5" fill="#F8F0F3">Command Engineering · HTML/CSS/JS · Python</text>
+    <line x1="616" y1="371" x2="944" y2="371" stroke="#701A3D" stroke-opacity=".45"/>
+    <text class="h-mono" x="618" y="381" font-size="9.5" letter-spacing="1.5" fill="#C77B9B">FOUNDATION</text>
+    <text class="h-sans" x="618" y="398" font-size="12.5" fill="#F8F0F3">CA Foundation (1st attempt) · 98/100 Math</text>
+  </g>
+  <rect x=".5" y=".5" width="999" height="419" rx="20" fill="none" stroke="#701A3D" stroke-opacity=".65"/>
+</svg>
