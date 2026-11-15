@@ -103,8 +103,8 @@
     <text class="h-mono" x="618" y="344" font-size="9.5" letter-spacing="1.5" fill="#C77B9B">AI &amp; DEV</text>
     <text class="h-sans" x="618" y="361" font-size="12.5" fill="#F8F0F3">Command Engineering · HTML/CSS/JS · Python</text>
     <line x1="616" y1="371" x2="944" y2="371" stroke="#701A3D" stroke-opacity=".45"/>
-    <text class="h-mono" x="618" y="381" font-size="9.5" letter-spacing="1.5" fill="#C77B9B">FOUNDATION</text>
-    <text class="h-sans" x="618" y="398" font-size="12.5" fill="#F8F0F3">CA Foundation (1st attempt) · 98/100 Math</text>
+    <text class="h-mono" x="618" y="381" font-size="9.5" letter-spacing="1.5" fill="#C77B9B">FOCUS</text>
+    <text class="h-sans" x="618" y="398" font-size="12.5" fill="#F8F0F3">AI Engineering &amp; FinTech (future goal)</text>
   </g>
   <rect x=".5" y=".5" width="999" height="419" rx="20" fill="none" stroke="#701A3D" stroke-opacity=".65"/>
 </svg>
