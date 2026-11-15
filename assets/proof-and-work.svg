@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="pwTitle pwDesc">
   <title id="pwTitle">Recognition, milestones and selected work — Karthikeya Mudili</title>
-  <desc id="pwDesc">Published SSRN research and Zenodo-archived Python model, academic distinctions, four verified metrics, and three selected projects.</desc>
+  <desc id="pwDesc">Published SSRN research and Zenodo-archived Python model, a quiet academic foundation card, research metrics, and three selected projects.</desc>
   <defs>
     <linearGradient id="pw-bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/>
@@ -48,14 +48,14 @@
     </g>
     <g class="pw-rise" style="animation-delay:.15s">
       <rect x="510" y="104" width="450" height="150" rx="14" fill="url(#pw-card)" stroke="#701A3D"/>
-      <text class="pw-mono pw-kicker" x="530" y="130" fill="#FFB347">ACADEMICS · ANALYTICAL</text>
-      <text class="pw-serif" x="530" y="156" font-size="20" fill="#F8F0F3">Academic &amp; Analytical Distinction</text>
-      <text class="pw-sans" x="530" y="182" font-size="13" fill="#E5B5C7">ICAI CA Foundation — cleared in 1st attempt (2023).</text>
-      <text class="pw-sans" x="530" y="202" font-size="13" fill="#E5B5C7">Intermediate 95.8% · Class 10 ICSE 88.6%.</text>
-      <text class="pw-sans" x="530" y="222" font-size="13" fill="#E5B5C7" fill-opacity=".8">St. Ann's School, Rajahmundry · MEC stream.</text>
+      <text class="pw-mono pw-kicker" x="530" y="130" fill="#FFB347">EDUCATION · EARLY FOUNDATION</text>
+      <text class="pw-serif" x="530" y="156" font-size="20" fill="#F8F0F3">Academic Foundation</text>
+      <text class="pw-sans" x="530" y="182" font-size="13" fill="#E5B5C7">ICAI CA Foundation — cleared (2023).</text>
+      <text class="pw-sans" x="530" y="202" font-size="13" fill="#E5B5C7">Intermediate (AP MEC): 95.8% · 98/100 in Mathematics.</text>
+      <text class="pw-sans" x="530" y="222" font-size="13" fill="#E5B5C7" fill-opacity=".8">Class 10 (ICSE): 88.6% · St. Ann's School, Rajahmundry.</text>
     </g>
 
-    <!-- metric counters -->
+    <!-- metric counters: research & output only -->
     <g class="pw-rise" style="animation-delay:.1s">
       <rect x="40" y="274" width="215" height="70" rx="12" fill="#190B12" stroke="#701A3D" stroke-opacity=".7"/>
       <rect class="pw-node" x="60" y="286" width="24" height="2" fill="#FF4D8D"/>
@@ -65,14 +65,14 @@
     <g class="pw-rise" style="animation-delay:.25s">
       <rect x="275" y="274" width="215" height="70" rx="12" fill="#190B12" stroke="#701A3D" stroke-opacity=".7"/>
       <rect class="pw-node" x="295" y="286" width="24" height="2" fill="#FFB347" style="animation-delay:.5s"/>
-      <text class="pw-serif" x="382" y="316" font-size="30" fill="#F8F0F3" text-anchor="middle">98/100</text>
-      <text class="pw-mono" x="382" y="334" font-size="9.5" letter-spacing="1" fill="#C77B9B" text-anchor="middle">INTERMEDIATE MATHEMATICS</text>
+      <text class="pw-serif" x="382" y="316" font-size="30" fill="#F8F0F3" text-anchor="middle">58</text>
+      <text class="pw-mono" x="382" y="334" font-size="9.5" letter-spacing="1" fill="#C77B9B" text-anchor="middle">YEARS ANALYZED · KEPPEL LTD</text>
     </g>
     <g class="pw-rise" style="animation-delay:.4s">
       <rect x="510" y="274" width="215" height="70" rx="12" fill="#190B12" stroke="#701A3D" stroke-opacity=".7"/>
       <rect class="pw-node" x="530" y="286" width="24" height="2" fill="#FF4D8D" style="animation-delay:1s"/>
-      <text class="pw-serif" x="617" y="316" font-size="27" fill="#F8F0F3" text-anchor="middle">1st Attempt</text>
-      <text class="pw-mono" x="617" y="334" font-size="9.5" letter-spacing="1" fill="#C77B9B" text-anchor="middle">ICAI CA FOUNDATION</text>
+      <text class="pw-serif" x="617" y="316" font-size="30" fill="#F8F0F3" text-anchor="middle">4</text>
+      <text class="pw-mono" x="617" y="334" font-size="9.5" letter-spacing="1" fill="#C77B9B" text-anchor="middle">FEATURED PROJECTS &amp; STUDIES</text>
     </g>
     <g class="pw-rise" style="animation-delay:.55s">
       <rect x="745" y="274" width="215" height="70" rx="12" fill="#190B12" stroke="#701A3D" stroke-opacity=".7"/>
