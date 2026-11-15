@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" width="100%" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="pwTitle pwDesc">
+  <title id="pwTitle">Recognition, milestones and selected work — Karthikeya Mudili</title>
+  <desc id="pwDesc">Published SSRN research and Zenodo-archived Python model, academic distinctions, four verified metrics, and three selected projects.</desc>
+  <defs>
+    <linearGradient id="pw-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="pw-card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#451126"/><stop offset="1" stop-color="#240A16"/>
+    </linearGradient>
+    <radialGradient id="pw-light" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#C77B9B" stop-opacity=".12"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="pw-clip"><rect width="1000" height="760" rx="20"/></clipPath>
+  </defs>
+  <style><![CDATA[
+    .pw-serif{font-family:'Playfair Display',Georgia,'Times New Roman',serif}
+    .pw-sans{font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+    .pw-mono{font-family:'JetBrains Mono','Fira Code','Courier New',monospace}
+    .pw-kicker{font-size:9.5px;letter-spacing:1.5px;fill:#C77B9B}
+    .pw-body{font-size:12.5px;fill:#E5B5C7;fill-opacity:.92}
+    .pw-tag{font-size:9.5px;letter-spacing:.5px;fill:#E5B5C7}
+    .pw-drift{animation:pw-drift 20s ease-in-out infinite alternate}
+    .pw-node{animation:pw-pulse 3s ease-in-out infinite}
+    .pw-rise{animation:pw-rise .9s ease-out both}
+    @keyframes pw-drift{from{transform:translateX(-160px)}to{transform:translateX(160px)}}
+    @keyframes pw-pulse{0%,100%{opacity:.4}50%{opacity:1}}
+    @keyframes pw-rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+    @media (prefers-reduced-motion:reduce){.pw-drift,.pw-node,.pw-rise{animation:none}}
+  ]]></style>
+  <g clip-path="url(#pw-clip)">
+    <rect width="1000" height="760" fill="url(#pw-bg)"/>
+    <ellipse class="pw-drift" cx="500" cy="120" rx="520" ry="240" fill="url(#pw-light)"/>
+
+    <!-- 02 · RECOGNITION -->
+    <rect x="40" y="38" width="18" height="2" fill="#FFB347"/>
+    <text class="pw-mono" x="66" y="44" font-size="11" letter-spacing="2" fill="#C77B9B">02 · RECOGNITION &amp; MILESTONES</text>
+    <text class="pw-serif" x="40" y="84" font-size="34" fill="#F8F0F3">Proof, <tspan font-style="italic" fill="#E5B5C7">on the record.</tspan></text>
+    <text class="pw-mono" x="960" y="84" font-size="10" letter-spacing="1" fill="#C77B9B" opacity=".7" text-anchor="end">SSRN · ZENODO · ICAI · ICSE</text>
+
+    <g class="pw-rise">
+      <rect x="40" y="104" width="450" height="150" rx="14" fill="url(#pw-card)" stroke="#701A3D"/>
+      <text class="pw-mono pw-kicker" x="60" y="130" fill="#FFB347">RESEARCH · PUBLISHED &amp; ARCHIVED</text>
+      <text class="pw-serif" x="60" y="156" font-size="20" fill="#F8F0F3">SSRN &amp; Zenodo Published Author</text>
+      <text class="pw-serif" x="60" y="180" font-size="14.5" font-style="italic" fill="#E5B5C7">The Strategic Evolution of Keppel Ltd. (1968–2026)</text>
+      <text class="pw-sans pw-body" x="60" y="204">Keppel strategy study on SSRN (author=10281216); Python</text>
+      <text class="pw-sans pw-body" x="60" y="222">FinTech model archived on Zenodo (DOI record 18526916).</text>
+    </g>
+    <g class="pw-rise" style="animation-delay:.15s">
+      <rect x="510" y="104" width="450" height="150" rx="14" fill="url(#pw-card)" stroke="#701A3D"/>
+      <text class="pw-mono pw-kicker" x="530" y="130" fill="#FFB347">ACADEMICS · ANALYTICAL</text>
+      <text class="pw-serif" x="530" y="156" font-size="20" fill="#F8F0F3">Academic &amp; Analytical Distinction</text>
+      <text class="pw-sans" x="530" y="182" font-size="13" fill="#E5B5C7">ICAI CA Foundation — cleared in 1st attempt (2023).</text>
+      <text class="pw-sans" x="530" y="202" font-size="13" fill="#E5B5C7">Intermediate Mathematics 98/100 · Class 10 ICSE 88.6%.</text>
+      <text class="pw-sans" x="530" y="222" font-size="13" fill="#E5B5C7" fill-opacity=".8">St. Ann's School, Rajahmundry · MPC stream.</text>
+    </g>
+
+    <!-- metric counters -->
+    <g class="pw-rise" style="animation-delay:.1s">
+      <rect x="40" y="274" width="215" height="70" rx="12" fill="#190B12" stroke="#701A3D" stroke-opacity=".7"/>
+      <rect class="pw-node" x="60" y="286" width="24" height="2" fill="#FF4D8D"/>
+      <text class="pw-serif" x="147" y="316" font-size="30" fill="#F8F0F3" text-anchor="middle">31+</text>
+      <text class="pw-mono" x="147" y="334" font-size="9.5" letter-spacing="1" fill="#C77B9B" text-anchor="middle">SSRN PAPER DOWNLOADS</text>
+    </g>
+    <g class="pw-rise" style="animation-delay:.25s">
+      <rect x="275" y="274" width="215" height="70" rx="12" fill="#190B12" stroke="#701A3D" stroke-opacity=".7"/>
+      <rect class="pw-node" x="295" y="286" width="24" height="2" fill="#FFB347" style="animation-delay:.5s"/>
+      <text class="pw-serif" x="382" y="316" font-size="30" fill="#F8F0F3" text-anchor="middle">98/100</text>
+      <text class="pw-mono" x="382" y="334" font-size="9.5" letter-spacing="1" fill="#C77B9B" text-anchor="middle">INTERMEDIATE MATHEMATICS</text>
+    </g>
+    <g class="pw-rise" style="animation-delay:.4s">
+      <rect x="510" y="274" width="215" height="70" rx="12" fill="#190B12" stroke="#701A3D" stroke-opacity=".7"/>
+      <rect class="pw-node" x="530" y="286" width="24" height="2" fill="#FF4D8D" style="animation-delay:1s"/>
+      <text class="pw-serif" x="617" y="316" font-size="27" fill="#F8F0F3" text-anchor="middle">1st Attempt</text>
+      <text class="pw-mono" x="617" y="334" font-size="9.5" letter-spacing="1" fill="#C77B9B" text-anchor="middle">ICAI CA FOUNDATION</text>
+    </g>
+    <g class="pw-rise" style="animation-delay:.55s">
+      <rect x="745" y="274" width="215" height="70" rx="12" fill="#190B12" stroke="#701A3D" stroke-opacity=".7"/>
+      <rect class="pw-node" x="765" y="286" width="24" height="2" fill="#FFB347" style="animation-delay:1.5s"/>
+      <text class="pw-serif" x="852" y="316" font-size="30" fill="#F8F0F3" text-anchor="middle">6</text>
+      <text class="pw-mono" x="852" y="334" font-size="9.5" letter-spacing="1" fill="#C77B9B" text-anchor="middle">VERIFIED CREDENTIALS</text>
+    </g>
+
+    <!-- 03 · SELECTED WORK -->
+    <line x1="40" y1="368" x2="960" y2="368" stroke="#701A3D" stroke-opacity=".5"/>
+    <rect x="40" y="390" width="18" height="2" fill="#FFB347"/>
+    <text class="pw-mono" x="66" y="396" font-size="11" letter-spacing="2" fill="#C77B9B">03 · SELECTED WORK</text>
+    <text class="pw-serif" x="40" y="436" font-size="34" fill="#F8F0F3">Products, <tspan font-style="italic" fill="#E5B5C7">not assignments.</tspan></text>
+    <text class="pw-mono" x="960" y="436" font-size="10" letter-spacing="1" fill="#C77B9B" opacity=".7" text-anchor="end">RESEARCH · WEB · PYTHON</text>
+
+    <!-- project 01 -->
+    <g class="pw-rise" style="animation-delay:.2s">
+      <rect x="40" y="456" width="920" height="88" rx="14" fill="url(#pw-card)" stroke="#701A3D"/>
+      <text class="pw-mono" x="64" y="506" font-size="14" fill="#FFB347">01</text>
+      <line x1="88" y1="474" x2="88" y2="526" stroke="#701A3D"/>
+      <text class="pw-mono pw-kicker" x="100" y="482">CORPORATE STRATEGY &amp; FINANCIAL RESEARCH</text>
+      <text class="pw-serif" x="100" y="506" font-size="19" fill="#F8F0F3">The Strategic Evolution of Keppel Ltd. (1968–2026)</text>
+      <text class="pw-sans pw-body" x="100" y="528">Longitudinal analysis of Keppel's shift from state shipyard to global asset manager.</text>
+      <rect x="734" y="470" width="210" height="20" rx="10" fill="#190B12" stroke="#701A3D"/>
+      <text class="pw-mono pw-tag" x="839" y="484" text-anchor="middle">SSRN · 31+ DOWNLOADS</text>
+      <rect x="734" y="494" width="210" height="20" rx="10" fill="#190B12" stroke="#701A3D"/>
+      <text class="pw-mono pw-tag" x="839" y="508" text-anchor="middle">DOI 10.2139/SSRN.6196159</text>
+      <rect x="734" y="518" width="210" height="20" rx="10" fill="#190B12" stroke="#701A3D"/>
+      <text class="pw-mono pw-tag" x="839" y="532" text-anchor="middle">ORCID VERIFIED</text>
+    </g>
+
+    <!-- project 02 -->
+    <g class="pw-rise" style="animation-delay:.35s">
+      <rect x="40" y="556" width="920" height="88" rx="14" fill="url(#pw-card)" stroke="#701A3D"/>
+      <text class="pw-mono" x="64" y="606" font-size="14" fill="#FFB347">02</text>
+      <line x1="88" y1="574" x2="88" y2="626" stroke="#701A3D"/>
+      <text class="pw-mono pw-kicker" x="100" y="582">AI COMMAND ENGINEERING &amp; WEB DESIGN</text>
+      <text class="pw-serif" x="100" y="606" font-size="19" fill="#F8F0F3">Interactive Portfolio &amp; Grounded AI Recruiter</text>
+      <text class="pw-sans pw-body" x="100" y="628">Open-source SVG-crafted portfolio with a deterministic, hallucination-free recruiter chatbot.</text>
+      <rect x="734" y="570" width="210" height="20" rx="10" fill="#190B12" stroke="#701A3D"/>
+      <text class="pw-mono pw-tag" x="839" y="584" text-anchor="middle">KARTHIKEYAMUDILI.GITHUB.IO</text>
+      <rect x="734" y="594" width="210" height="20" rx="10" fill="#190B12" stroke="#701A3D"/>
+      <text class="pw-mono pw-tag" x="839" y="608" text-anchor="middle">HTML5 · CSS3 · JAVASCRIPT</text>
+      <rect x="734" y="618" width="210" height="20" rx="10" fill="#190B12" stroke="#701A3D"/>
+      <text class="pw-mono pw-tag" x="839" y="632" text-anchor="middle">COMMAND ENGINEERING</text>
+    </g>
+
+    <!-- project 03 -->
+    <g class="pw-rise" style="animation-delay:.5s">
+      <rect x="40" y="656" width="920" height="88" rx="14" fill="url(#pw-card)" stroke="#701A3D"/>
+      <text class="pw-mono" x="64" y="706" font-size="14" fill="#FFB347">03</text>
+      <line x1="88" y1="674" x2="88" y2="726" stroke="#701A3D"/>
+      <text class="pw-mono pw-kicker" x="100" y="682">PYTHON &amp; QUANTITATIVE COMPUTING LAB</text>
+      <text class="pw-serif" x="100" y="706" font-size="19" fill="#F8F0F3">CS50P Python &amp; Mathematical Modeling</text>
+      <text class="pw-sans pw-body" x="100" y="728">Ongoing lab pairing Harvard CS50P and MATLAB Onramp with calculus, linear algebra &amp; probability.</text>
+      <rect x="734" y="670" width="210" height="20" rx="10" fill="#190B12" stroke="#701A3D"/>
+      <text class="pw-mono pw-tag" x="839" y="684" text-anchor="middle">PYTHON · HARVARD CS50P</text>
+      <rect x="734" y="694" width="210" height="20" rx="10" fill="#190B12" stroke="#701A3D"/>
+      <text class="pw-mono pw-tag" x="839" y="708" text-anchor="middle">MATLAB ONRAMP</text>
+      <rect x="734" y="718" width="210" height="20" rx="10" fill="#190B12" stroke="#701A3D"/>
+      <text class="pw-mono pw-tag" x="839" y="732" text-anchor="middle">ZENODO · DBS LOAN ENGINE</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="999" height="759" rx="20" fill="none" stroke="#701A3D" stroke-opacity=".65"/>
+</svg>
