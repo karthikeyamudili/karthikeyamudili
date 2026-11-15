@@ -33,15 +33,7 @@
 
 <img src="./assets/toolkit-and-credentials.svg" width="100%" alt="Toolkit: AI command engineering and web design, mathematics, finance and strategy, Python and tools. Six verified credentials: ICAI CA Foundation, SSRN and Zenodo author, Harvard CS50P, MathWorks MATLAB Onramp, HP LIFE and Outskill, Mathematics Honors."/>
 
-### 📈 Contribution activity — live, genuine GitHub data
 
-<!-- Real data from the activity-graph service. If it ever rate-limits or
-     breaks, remove this block — never replace it with fabricated activity. -->
-<div align="center">
-
-![Karthikeya's real GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karthikeyamudili&bg_color=10070C&color=F8F0F3&line=C77B9B&point=FF4D8D&area=true&area_color=701A3D&hide_border=true)
-
-</div>
 
 <details>
   <summary><b>Prefer plain text? Quick profile summary (mobile & screen-reader friendly)</b></summary>
